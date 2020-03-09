@@ -8,7 +8,7 @@ and I have referenced from the object detection tutorial [here](https://github.c
 <video width="700" height="800" controls="controls">
   <img src="images/training.mp4" type="video/mp4">
 </video>
-
+![ss](https://github.com/lizeyujack/summerstudio2020/blob/master/images/training.gif)
 
 **2. "_model file"**
 ****
@@ -31,7 +31,6 @@ Finally, Our project will automatically play recommended ads(images in `slidesho
 <video width="700" height="800" controls="controls">
   <img src="images/classifier1.mp4" type="video/mp4">
 </video>
-
 
 
 **4. wabcam.py**
