@@ -1,0 +1,26 @@
+<annotation>
+	<folder>caucasian_man___Google_Search</folder>
+	<filename>wm2 (58).jpg</filename>
+	<path>C:\Users\User\Desktop\caucasian_man___Google_Search\wm2 (58).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>248</width>
+		<height>203</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>43</ymin>
+			<xmax>178</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

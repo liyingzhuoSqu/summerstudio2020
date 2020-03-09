@@ -1,0 +1,26 @@
+<annotation>
+	<folder>middle_eastern_male___Google_Search</folder>
+	<filename>MiddleM_020.jpg</filename>
+	<path>D:\final_data\middle_eastern_male___Google_Search\MiddleM_020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>195</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>middle_eastern_male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>52</ymin>
+			<xmax>112</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

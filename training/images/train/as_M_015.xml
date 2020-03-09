@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>as_M_015.jpg</filename>
+	<path>I:\New folder\as_M_015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>asian_male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>20</ymin>
+			<xmax>191</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+</annotation>

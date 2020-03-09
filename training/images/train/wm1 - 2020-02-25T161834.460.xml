@@ -1,0 +1,26 @@
+<annotation>
+	<folder>caucasian_man___Google_Search</folder>
+	<filename>wm1 - 2020-02-25T161834.460.jpg</filename>
+	<path>C:\Users\User\Desktop\caucasian_man___Google_Search\wm1 - 2020-02-25T161834.460.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>266</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>45</ymin>
+			<xmax>163</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

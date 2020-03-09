@@ -1,0 +1,26 @@
+<annotation>
+	<folder>black_male</folder>
+	<filename>bm_{N000} (78).jpg</filename>
+	<path>C:\Users\User\Desktop\black_male\bm_{N000} (78).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black_male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>24</ymin>
+			<xmax>169</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

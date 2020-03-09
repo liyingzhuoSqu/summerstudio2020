@@ -1,0 +1,33 @@
+pip install tensorflow-gpu
+
+
+pip install --user Cython
+pip install --user contextlib2
+pip install --user pillow
+pip install --user lxml
+pip install --user jupyter
+pip install --user matplotlib
+
+wget -O protobuf.zip https://github.com/google/protobuf/releases/download/v3.0.0/protoc-3.0.0-linux-x86_64.zip
+
+unzip protobuf.zip
+
+./bin/protoc object_detection/protos/*.proto --python_out=.
+
+python setup.py build
+python setup.py install
+
+sudo docker run --rm -it -e DISPLAY=$ip:0 -p 8888:8888 --gpus all --volume="/tmp/.X11-unix:/tmp/.X11-unix:rw" --volume="/home/g13649660/tensorflow2/:/root" --privileged ufoym/deepo:tensorflow-py36-cu100 bash
+
+(in windows)set PYTHONPATH= C:\tensorflow1\tensorflow2\models;C:\tensorflow1\tensorflow2\models\research;C:\tensorflow1\tensorflow2\models\research\slim
+(in google cloud)
+export PYTHONPATH=$PYTHONPATH:/root/tensorflow1/tensorflow2/models/research/slim
+export PYTHONPATH=$PYTHONPATH:/root/tensorflow1/tensorflow2/models/research
+export PYTHONPATH=$PYTHONPATH:/root/tensorflow1/tensorflow2/models
+
+echo $PYTHONPATH
+
+
+python export_inference_graph.py --input_type image_tensor --pipeline_config_path training/faster_rcnn_inception_v2_coco.config --trained_checkpoint_prefix training/model.ckpt-41308 --output_directory inference_graph
+
+python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_inception_v2_coco.config

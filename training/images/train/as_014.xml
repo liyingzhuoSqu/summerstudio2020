@@ -1,0 +1,26 @@
+<annotation>
+	<folder>asian_female</folder>
+	<filename>as_014.jpg</filename>
+	<path>D:\races+gender\asian_female\as_014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>234</width>
+		<height>215</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>asian_female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>23</ymin>
+			<xmax>158</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>indian_female</folder>
+	<filename>IndF_152.jpg</filename>
+	<path>D:\races+gender\indian_female\IndF_152.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>indian_female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>7</ymin>
+			<xmax>240</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

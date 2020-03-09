@@ -1,0 +1,26 @@
+<annotation>
+	<folder>caucasian_woman___Google_Search</folder>
+	<filename>wf - 2020-02-25T160041.426.jpg</filename>
+	<path>C:\Users\User\Desktop\caucasian_woman___Google_Search\wf - 2020-02-25T160041.426.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>245</width>
+		<height>206</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>17</ymin>
+			<xmax>156</xmax>
+			<ymax>53</ymax>
+		</bndbox>
+	</object>
+</annotation>

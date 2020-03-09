@@ -1,0 +1,26 @@
+<annotation>
+	<folder>indian_M(1)</folder>
+	<filename>Indian_M_314.jpg</filename>
+	<path>D:\final_data\indian_M(1)\Indian_M_314.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>157</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Indian_Male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>22</ymin>
+			<xmax>146</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>black_female</folder>
+	<filename>black_F_223.jpg</filename>
+	<path>D:\dataa\black_female\black_F_223.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>198</width>
+		<height>255</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black_female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>8</ymin>
+			<xmax>122</xmax>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+</annotation>

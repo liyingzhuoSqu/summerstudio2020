@@ -1,0 +1,26 @@
+<annotation>
+	<folder>black_male</folder>
+	<filename>bm_{N000} - 2020-02-23T134135.241.jpg</filename>
+	<path>C:\Users\User\Desktop\black_male\bm_{N000} - 2020-02-23T134135.241.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>203</width>
+		<height>248</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black_male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>37</ymin>
+			<xmax>163</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

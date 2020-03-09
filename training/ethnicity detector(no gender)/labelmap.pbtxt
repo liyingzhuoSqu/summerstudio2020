@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'asian'
+}
+
+item {
+  id: 2
+  name: 'black'
+}
+
+item {
+  id: 3
+  name: 'indian'
+}
+
+item {
+  id: 4
+  name: 'middle_eastern'
+}
+
+item {
+  id: 5
+  name: 'White'
+}

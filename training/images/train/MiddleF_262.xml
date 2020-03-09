@@ -1,0 +1,26 @@
+<annotation>
+	<folder>middle_eastern_female_names___Google_Search</folder>
+	<filename>MiddleF_262.jpg</filename>
+	<path>D:\final_data\middle_eastern_female_names___Google_Search\MiddleF_262.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>197</width>
+		<height>255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>middle_eastern_Female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>54</ymin>
+			<xmax>157</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>caucasian_man___Google_Search</folder>
+	<filename>wm3 (14).jpg</filename>
+	<path>C:\Users\User\Desktop\caucasian_man___Google_Search\wm3 (14).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_male</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>27</ymin>
+			<xmax>215</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

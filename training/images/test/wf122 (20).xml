@@ -1,0 +1,26 @@
+<annotation>
+	<folder>caucasian_woman___Google_Search</folder>
+	<filename>wf122 (20).jpg</filename>
+	<path>C:\Users\User\Desktop\caucasian_woman___Google_Search\wf122 (20).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>248</width>
+		<height>203</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>19</ymin>
+			<xmax>213</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

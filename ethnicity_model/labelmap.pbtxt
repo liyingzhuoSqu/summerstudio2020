@@ -1,0 +1,49 @@
+item {
+  id: 1
+  name: 'asian_female'
+}
+
+item {
+  id: 2
+  name: 'asian_male'
+}
+
+item {
+  id: 3
+  name: 'black_female'
+}
+
+item {
+  id: 4
+  name: 'black_male'
+}
+
+item {
+  id: 5
+  name: 'indian_female'
+}
+
+item {
+  id: 6
+  name: 'Indian_Male'
+}
+
+item {
+  id: 7
+  name: 'middle_eastern_female'
+}
+
+item {
+  id: 8
+  name: 'middle_eastern_male'
+}
+
+item {
+  id: 9
+  name: 'white_female'
+}
+
+item {
+  id: 10
+  name: 'white_male'
+}
