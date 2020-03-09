@@ -1,14 +1,10 @@
 **1. [training](https://gitlab.com/ZeyuLi123/targetingly-jack/-/tree/master/training)**
-****
+***
 
 The training phase is the core of our entire project. It includes collecting, filtering  and labeling our datasets. Finally, I converted some these ".xml" file to ".record" file.  I detailed what I have done to train a detector using [Google Cloud Platform](https://cloud.google.com/gcp/?utm_source=google&utm_medium=cpc&utm_campaign=japac-AU-all-en-dr-bkws-all-super-trial-e-dr-1008074&utm_content=text-ad-none-none-DEV_c-CRE_248263937479-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+T1+%7C+EXA+%7C+General+%7C+1:1+%7C+AU+%7C+en+%7C+google+cloud+platform-KWID_43700023244271242-kwd-296644789888&userloc_1000286&utm_term=KW_google%20cloud%20platform&gclid=EAIaIQobChMIiNXsqpn75wIVFoWPCh0EEwqzEAAYASAAEgJ_gfD_BwE),
 and I have referenced from the object detection tutorial [here](https://github.com/tensorflow/models/tree/master/research/object_detection). I haved created a virtual environment with dorker to make training easier. I have set up everything in this  [repository](https://gitlab.com/ZeyuLi123/tensorflow2), so I do not need to make other changes after cloning it into my VM Engine .
 
-
-<video width="700" height="800" controls="controls">
-  <img src="images/training.mp4" type="video/mp4">
-</video>
-![ss](https://github.com/lizeyujack/summerstudio2020/blob/master/images/training.gif)
+![training](https://github.com/lizeyujack/summerstudio2020/blob/master/images/training.gif)
 
 **2. "_model file"**
 ****
@@ -28,10 +24,8 @@ Finally, Our project will automatically play recommended ads(images in `slidesho
 
 *The following video is the result of running the `Classifier.py` file. This is also the program we showed to you on the display day.*
 
-<video width="700" height="800" controls="controls">
-  <img src="images/classifier1.mp4" type="video/mp4">
-</video>
 
+![training](https://github.com/lizeyujack/summerstudio2020/blob/master/images/classifier1.gif)
 
 **4. wabcam.py**
 ****
@@ -39,10 +33,8 @@ it is used for opening the webcam of our laptop to visualize our predicrion. Use
 
 *The video below is the effect of the trained race model.*
 
-<video width="700" height="800" controls="controls">
-  <img src="images/ethnicity.mp4" type="video/mp4">
-</video>
 
+![training](https://github.com/lizeyujack/summerstudio2020/blob/master/images/ethnicity.gif)
 
 **5. test.py**
 ****
