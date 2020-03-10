@@ -6,7 +6,7 @@
 
 During the period of running, your webcam(camera) will open and close 3 times, the first time is for generate your gender, the second one is for your ethnicity and the last time is used for generating your cloth. In the end, there will be some pictures (ads) shows as slides to you based on the information captured by this model.
 
-If you are interested in how did I trained my model, you can click this link  https://github.com/lizeyujack/summerstudio2020/tree/master/training
+If you are interested in how did I trained my model, you can click this link https://github.com/lizeyujack/summerstudio2020/tree/master/training
 
 **1. training**
 ***
@@ -16,7 +16,7 @@ and I have referenced from the object detection tutorial [here](https://github.c
 
 ![training](https://github.com/lizeyujack/summerstudio2020/blob/master/images/training.gif)
 
-**2. " model file" **
+**2. " model file"**
 ***
 there are three file end with _model  (Gender_model, clothing_model and ethnicity_model), and these files are used for story the model that we have trained.
 
