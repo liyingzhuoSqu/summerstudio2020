@@ -1,4 +1,4 @@
-**1. [training](https://gitlab.com/ZeyuLi123/targetingly-jack/-/tree/master/training)**
+**1. [training](https://github.com/lizeyujack/summerstudio2020/tree/master/training)**
 ***
 
 The training phase is the core of our entire project. It includes collecting, filtering  and labeling our datasets. Finally, I converted some these ".xml" file to ".record" file.  I detailed what I have done to train a detector using [Google Cloud Platform](https://cloud.google.com/gcp/?utm_source=google&utm_medium=cpc&utm_campaign=japac-AU-all-en-dr-bkws-all-super-trial-e-dr-1008074&utm_content=text-ad-none-none-DEV_c-CRE_248263937479-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+T1+%7C+EXA+%7C+General+%7C+1:1+%7C+AU+%7C+en+%7C+google+cloud+platform-KWID_43700023244271242-kwd-296644789888&userloc_1000286&utm_term=KW_google%20cloud%20platform&gclid=EAIaIQobChMIiNXsqpn75wIVFoWPCh0EEwqzEAAYASAAEgJ_gfD_BwE),
